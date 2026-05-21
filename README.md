@@ -34,7 +34,7 @@ The system helps manage futsal bookings, schedules, users, and administrative op
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/futsal-project.git
+git clone https://github.com/Saugatsaugat/futsal-project.git
 ```
 
 ### 2️⃣ Import the Project
